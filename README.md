@@ -29,6 +29,14 @@
 - [Next JS](https://vercel.com/solutions/nextjs)
 - [Next JS en CODERHOUSE](https://www.coderhouse.com/online/next-js-flex)
 
+## UX y UI
+
+- [Figma](https://figma.com)
+
+## METODOLOGÍAS DE TRABAJO
+
+- [SCRUM]
+
 ## Linkedin
 
 - [@julioavantt](https://linkedin.com/in/julio-avantt)

@@ -13,22 +13,21 @@ useReducer
 
 ## CSS EN REACT
 
-Module
-Tailwind
-Sass
-Styled Components
+- [Module]
+- [Tailwind](https://tailwindcss.com/)
+- [Sass]
+- [Styled Components](https://styled-components.com/)
 
 ## GESTIÓN DE ESTADO Y/O CACHE EN REACT
 
-Redux Toolkit
-
+- [Redux Toolkit](https://redux-toolkit.js.org/)
 - [RTK Query](https://redux-toolkit.js.org/rtk-query/overview)
-  React Query
+- [React Query](https://tanstack.com/query/v3/)
 
 ## RENDERIZADO DEL LADO DEL SERVIDOR
 
-Next JS
-Remix
+- [Next JS](https://vercel.com/solutions/nextjs)
+- [Next JS en CODERHOUSE](https://www.coderhouse.com/online/next-js-flex)
 
 ## Linkedin
 

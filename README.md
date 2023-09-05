@@ -4,12 +4,12 @@
 
 ## REACT
 
-Suspense
-lazy
-useCallback
-useLayoutEffect
-useMemo
-useReducer
+- [Suspense]
+- [lazy]
+- [useCallback]
+- [useLayoutEffect]
+- [useMemo]
+- [useReducer]
 
 ## CSS EN REACT
 

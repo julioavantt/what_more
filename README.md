@@ -29,6 +29,10 @@
 - [Next JS](https://vercel.com/solutions/nextjs)
 - [Next JS en CODERHOUSE](https://www.coderhouse.com/online/next-js-flex)
 
+## TIPADO
+
+- [Typescript](https://www.typescriptlang.org/)
+
 ## UX y UI
 
 - [Figma](https://figma.com)
